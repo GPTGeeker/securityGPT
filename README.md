@@ -1,8 +1,7 @@
-![封面](imgs/securityGPT.png)
-
 # 🛡️ securityGPT - 面向GPT开发者的安全Prompt组件
 
-## 概览：
+![封面](imgs/securityGPT.png)
+
 securityGPT 是由 GPTHacker 社群开发者设计的一套即插即用工具包，提供了一系列以安全为重点的 Prompt 组件。我们的使命是将强大的安全功能融入开发操作的核心，致力于避免因恶意 Prompt 造成开发者数据保护的损失。
 
 ## 为什么选择securityGPT？
