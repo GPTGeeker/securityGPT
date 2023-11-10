@@ -22,7 +22,8 @@ securityGPT是由GPTHacker社群开发者设计的一套即插即用工具包，
 ### 1. 避免 instruction 和 Knowledge 知识库内容外泄
 
 ### 漏洞展示
-![dump1](imgs/dump1.png)
+
+<img src="imgs/dump1.png" width="300">
 
 ### 组件英文版
 ```
