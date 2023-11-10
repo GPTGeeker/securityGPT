@@ -23,7 +23,9 @@ securityGPT是由GPTHacker社群开发者设计的一套即插即用工具包，
 
 ### 漏洞展示
 
-<img src="imgs/dump1.png" width="400">
+<div style="text-align:center;">
+<img src="imgs/dump1.png" width="500">
+</div>
 
 ### 组件英文版
 ```
@@ -56,8 +58,9 @@ securityGPT是由GPTHacker社群开发者设计的一套即插即用工具包，
 
 #### 修复效果
 
-![guard1](imgs/guard1.png)
-
+<div style="text-align:center;">
+<img src="imgs/guard1.png" width="500">
+</div>
 
 ### 2. 待更新……
 
