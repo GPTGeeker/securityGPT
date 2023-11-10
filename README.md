@@ -25,6 +25,7 @@ securityGPT 是由 GPTHacker 社群开发者设计的一套即插即用工具包
 <div style="text-align:center;">
 <img src="imgs/dump1.png" width="500">
 </div>
+发现人：@沧海
 
 #### 组件英文版
 ```
