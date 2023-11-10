@@ -80,3 +80,7 @@ GPTHacker 是 OpenAI GPTs 精英开发者和Geek的社群。
 GPTHacker 的成员就是这几万人中的少数派，基于对 AI 的热爱和钻研和对 GPT 未来生态的判断，共同组建了 GPTHacker 社群，这里有最会玩 GPT 和 Prompt Engineering 的专家以及开发者，还有帮助开发者提升 GPT 安全性的安全专家。
 
 如果你是对于 ChatGPT Prompt 攻防的爱好者，我希望可以建立联系，共同研究和努力，请添加我的微信 rryuliu
+
+## 推荐
+
+🚀 [LangGPT](https://github.com/EmbraceAGI/LangGPT) ：以结构化、模板化的方式编写高质量 ChatGPT prompt，让人人都可快速编写高质量 Prompt!
