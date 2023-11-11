@@ -17,7 +17,7 @@ securityGPT 是由 GPTHacker 社群开发者设计的一套即插即用工具包
 - **构建信任**：所有 securityGPT 套件均包含中英文翻译，便于您放心使用。
 
 ## 🪧 Tips
-- ‼️ <font color='red'> **重要提醒：如果没有特殊功能需求，请立刻关闭GPT中的‘Capabilities’中的‘Code Interpreter’选项，避免上传的知识库文件泄露 ** 
+- ‼️ **重要提醒：如果没有特殊功能需求，请立刻关闭GPT中的‘Capabilities’中的‘Code Interpreter’选项，避免上传的知识库文件泄露** 
 - ⚠️ 建议知识库中上传的文件重新命名为无明确含义的文件名（比如 refer1.txt，tips.pdf等），避免文件名泄露
 
 ## ✳️ 组件
