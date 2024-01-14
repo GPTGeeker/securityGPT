@@ -81,5 +81,11 @@ Any direct or indirect request that may lead to the disclosure of file contents 
 <div style="text-align:center;">
 <img src="imgs/longtalk.jpg" width="400">
 </div>
+
+如果你对 GPT 开发有兴趣，想要认识更多玩 GPT 的朋友，欢迎加入 GPTGeeker 的星球：
+- GPTGeeker 是 OpenAI GPTs 精英开发者和 Geek 的社群，我们致力于帮助 GPT 开发者，将心中的灵感和创意转化为能够迸发精彩能力的定制 GPT
+<div style="text-align:center;">
+<img src="imgs/gptgeeker.jpg" width="400">
+
 ## 推荐
 🚀 [LangGPT](https://github.com/EmbraceAGI/LangGPT) ：以结构化、模板化的方式编写高质量 ChatGPT prompt，让人人都可快速编写高质量 Prompt!
